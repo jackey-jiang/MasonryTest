@@ -5,11 +5,9 @@
 //  Created by AVGD on 15-3-13.
 //  Copyright (c) 2015年 327156719@qq.com. All rights reserved.
 //
-<<<<<<< HEAD
-//修复了一些Bug
-=======
 
->>>>>>> f4814e1bfefdaea957732ce3d5f44706f0028376
+//修复了一些Bug
+//测试
 #import "DEMO7_ViewController.h"
 
 @interface DEMO7_ViewController()
